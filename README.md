@@ -32,9 +32,5 @@ quiz-system/
 ## 🚀 Установка и запуск
 
 ```bash
-# 1. Клонируй проект
-git clone https://github.com/твой-логин/quiz-system.git
-cd quiz-system
-
-# 2. Запусти викторину
+# 1. Запусти викторину
 python main.py
