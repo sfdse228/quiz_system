@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "category": "Программирование",
+        "question": "Какой язык программирования создал Гвидо ван Россум?",
+        "options": ["Java", "Python", "C++", "Ruby"],
+        "correct": 1,
+        "difficulty": "easy"
+    },
+    {
+        "id": 2,
+        "category": "Программирование",
+        "question": "Что означает аббревиатура SQL?",
+        "options": [
+            "Structured Query Language",
+            "Simple Question Language",
+            "Standard Query Logic",
+            "System Quality Language"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+    },
+    {
+        "id": 3,
+        "category": "Программирование",
+        "question": "Какая структура данных использует принцип LIFO?",
+        "options": ["Очередь", "Стек", "Список", "Массив"],
+        "correct": 1,
+        "difficulty": "medium"
+    },
+    {
+        "id": 4,
+        "category": "Наука",
+        "question": "Какая планета самая большая в Солнечной системе?",
+        "options": ["Сатурн", "Нептун", "Юпитер", "Уран"],
+        "correct": 2,
+        "difficulty": "easy"
+    },
+    {
+        "id": 5,
+        "category": "Наука",
+        "question": "Какой элемент имеет химический символ 'Au'?",
+        "options": ["Серебро", "Золото", "Алюминий", "Аргон"],
+        "correct": 1,
+        "difficulty": "medium"
+    },
+    {
+        "id": 6,
+        "category": "История",
+        "question": "В каком году произошла Октябрьская революция?",
+        "options": ["1905", "1917", "1921", "1899"],
+        "correct": 1,
+        "difficulty": "medium"
+    },
+    {
+        "id": 7,
+        "category": "История",
+        "question": "Кто был первым президентом США?",
+        "options": ["Томас Джефферсон", "Авраам Линкольн", "Джордж Вашингтон", "Бенджамин Франклин"],
+        "correct": 2,
+        "difficulty": "easy"
+    },
+    {
+        "id": 8,
+        "category": "География",
+        "question": "Какая страна является самой большой по площади?",
+        "options": ["Китай", "США", "Канада", "Россия"],
+        "correct": 3,
+        "difficulty": "easy"
+    },
+    {
+        "id": 9,
+        "category": "География",
+        "question": "Какая река является самой длинной в мире?",
+        "options": ["Амазонка", "Нил", "Янцзы", "Миссисипи"],
+        "correct": 1,
+        "difficulty": "hard"
+    },
+    {
+        "id": 10,
+        "category": "Программирование",
+        "question": "Что такое рекурсия в программировании?",
+        "options": [
+            "Функция, вызывающая сама себя",
+            "Цикл с условием",
+            "Сортировка массива",
+            "Поиск в базе данных"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+    },
+    {
+        "id": 11,
+        "category": "Наука",
+        "question": "Сколько континентов на Земле?",
+        "options": ["5", "6", "7", "8"],
+        "correct": 2,
+        "difficulty": "easy"
+    },
+    {
+        "id": 12,
+        "category": "История",
+        "question": "Кто написал 'Войну и мир'?",
+        "options": ["Фёдор Достоевский", "Лев Толстой", "Антон Чехов", "Иван Тургенев"],
+        "correct": 1,
+        "difficulty": "medium"
+    }
+]

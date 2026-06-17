@@ -1,0 +1,11 @@
+[
+  {
+    "player": "TestPlayer",
+    "score": 10,
+    "total_questions": 2,
+    "correct_answers": 1,
+    "accuracy": 50.0,
+    "difficulty": "easy",
+    "date": "2026-06-17T22:45:35.833518"
+  }
+]
